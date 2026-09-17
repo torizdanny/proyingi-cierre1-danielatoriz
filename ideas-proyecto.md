@@ -4,8 +4,8 @@
 > "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
 > equipo decidirá con cuál se queda.
 
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
+**Autor:** [Daniela Toríz García]
+**Fecha:** [17/09/2026]
 
 ---
 
