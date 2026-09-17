@@ -4,8 +4,8 @@
 > "Instrucción:". Todos los enlaces deben abrir. Un enlace roto o inventado anula el
 > criterio correspondiente.
 
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
+**Autor:** [Daniela Toríz García]
+**Fecha:** [17/09/2026]
 **Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)
 
 ---
