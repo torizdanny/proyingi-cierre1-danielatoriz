@@ -18,11 +18,10 @@
 
 ### Idea 1: [nombre]
 
-- **Qué encontré:** [ ]
-- **Enlace:** [ ]
-- **Qué hace:** [ ]
-- **Por qué no resuelve mi caso:** [precio, no existe en México, requiere internet, no
-  sirve para el lugar donde yo lo vi, etc.]
+- **Qué encontré:** [Llavero con diseño de amplificador de guitarra que cada que se conecta un conector de audio(las llaves) enciende un led para tener control de quien está en casa y quien no además de no dejar  las llaves por donde sea]
+- **Enlace:** [https://programarfacil.com/domotica/llavero-inteligente-home-assistant/#Como_funciona_un_conector_jack_de_audio]
+- **Qué hace:** [Conecta cada conexión del llavero inteligente a la placa de desarrollo ESP8266 o ESP32 como si fuera un pulsador, se programa y se detectan las llaves mediante el mismo.]
+- **Por qué no resuelve mi caso:** [Porque este es un llavero que solo ayuda a no perder las llaves, sin embargo, lo que yo quiero es que emita una alarma de acuerdo a los horarios en los que me voy de casa para que no se olviden.]
 
 ### Idea 2: [nombre]
 

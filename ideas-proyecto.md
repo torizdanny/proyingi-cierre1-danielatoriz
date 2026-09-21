@@ -83,7 +83,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Idea elegida:** [Llavero inteligente]
 
-**Por qué.** [Porque es la problematica que se me ajusta a mi debido a que soy una p'ersona muy distraida y olvidadiza que le pasa muy seguido y me gustaría resolver esta problematica.]
+**Por qué.** [Porque es la problematica que se me ajusta a mi debido a que soy una persona muy distraida y olvidadiza que le pasa muy seguido y me gustaría resolver esta problematica.]
 
 **Qué todavía no sé.** [Si podría funcionar con cosas muy ligeras como una sola llave, probar como funcionaría la alerta ya que no se si podría funcionar con iman o por contacto y coordinar la hora de salida y de llegada del usuario]
 
