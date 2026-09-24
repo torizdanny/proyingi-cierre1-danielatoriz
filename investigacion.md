@@ -1,9 +1,5 @@
 # Investigación: ¿esto ya existe? ¿quién lo dice?
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Todos los enlaces deben abrir. Un enlace roto o inventado anula el
-> criterio correspondiente.
-
 **Autor:** Daniela Toríz García
 **Fecha:** 17/09/2026
 **Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)
@@ -11,10 +7,6 @@
 ---
 
 ## Parte 1. Un ejemplo que ya existe, por cada idea
-
-> Instrucción: busca algo parecido que alguien ya haya construido: un producto, un
-> proyecto de otra universidad, un repositorio, un tutorial. Encontrar que ya existe no
-> arruina tu idea; te dice desde dónde empezar.
 
 ### Idea 1: Llavero inteligente en forma de amplificador de guitarra
 
@@ -40,10 +32,6 @@
 ---
 
 ## Parte 2. Fuentes de la idea que elegí
-
-> Instrucción: de dos a tres fuentes, solo de la idea elegida. Todavía no se pide formato
-> APA; eso llega más adelante en el curso. Lo que se pide es que distingas quién publicó
-> la información y por qué le crees.
 
 ### Fuente 1
 

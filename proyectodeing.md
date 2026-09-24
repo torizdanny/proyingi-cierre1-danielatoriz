@@ -37,7 +37,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **A quién le pasa.** A muchos estudiantes principalmente y personas que tienen un horario de trabajo por la mañana
 
-**Dónde lo he visto.** En mi, en mi familia y en mis roomies
+**Dónde lo he visto.** En mi ya que he faltado a varios entrenamientos por quedarme dormida o al menos se me hace tarde en la mañana para ir a la escuela y llego corriendo a todo, en mi familia ya que también les cuesta mucho despertarse y muchas veces no miden bien los tiempos y se confían y en mis roomies que muchas veces nos ha tocado despertarnos entre nosotros cuando vamos tarde.
 
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): Un sensor ultrasonico colocadpo lejos de la cama detecta si ya se levantó la persona o no
@@ -52,7 +52,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **A quién le pasa.** A estudiantes y a personas atareadas que no se pueden tomar el tiempo para recordar esas cosas
 
-**Dónde lo he visto.** En mi y en mi familia
+**Dónde lo he visto.** En mi y en mis roomies ya que muchas veces nos damos cuenta que tenemos que ventilar nuestra casa hasta que ya huele mucho a comida o cuando estoy estudiando y me olvido de ventilar mi cuarto.
 
 **Cómo funcionaría.**
 - Qué mide o detecta (sensor): Sensor de calidad de aire y sensor de temperatura
@@ -62,6 +62,10 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 ---
 
 ## Tabla de viabilidad
+
+> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
+> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
+> salgan perfectas.
 
  Criterio | Idea 1 | Idea 2 | Idea 3 |
 |---|---|---|---|
