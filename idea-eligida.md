@@ -1,12 +1,18 @@
-# Idea Elegida para el proyecto
+# Idea Elegida para el Proyecto
 
-**Autor** : Daniela Toríz García
-**Fecha** : 24/09/26
-**Proyecto elegido** : Llavero inteligente con sensor de presencia
+**Autor:** Daniela Toríz García  
+**Fecha:** 24/09/2026  
+**Proyecto elegido:** Llavero inteligente con alerta de presencia  
+
+---
+
+## ¿Cuál de mis 3 ideas elijo y por qué?
+
+De las tres propuestas analizadas en [[ideas-proyecto]] (o [ideas-proyecto.md](ideas-proyecto.md)), he elegido la **Idea 1: Llavero inteligente con alerta de presencia**.
 
 ### Razones de la elección:
 1. **Problema personal y real:** Atiende una necesidad cotidiana que experimento directamente en mi departamento al salir de prisa por las mañanas (el olvido o pérdida constante de las llaves).
-2. **Viabilidad técnica y de tiempos:** Se adapta perfectamente al tiempo disponible del curso (8 sesiones). Utiliza sensores y actuadores sencillos de programar (módulo de reloj RTC, buzzer y LEDs), evitando la complejidad de calibración que requerían las otras opciones.
+2. **Viabilidad técnica y de tiempos:** Se adapta perfectamente al tiempo disponible del curso (8 sesiones). Utiliza sensores de contacto, zumbador (buzzer) y LEDs sencillos de programar, evitando la complejidad de calibración que requerían las otras opciones.
 3. **Manufactura física accesible:** Es un proyecto ideal para diseñar y fabricar piezas combinando tecnologías del laboratorio como el corte láser y la impresión 3D.
 
 ---
@@ -26,6 +32,6 @@ El prototipo constará de una estructura dividida en partes sencillas diseñadas
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** Gemini.
-- **Qué le pedí:** Estructuración del archivo idea-elegida, desglose de la justificación y elaboración de la tabla de piezas físicas del prototipo.
-- **Qué modifiqué o rechacé de su respuesta:** Personalicé la elección de materiales (corte láser e impresión 3D) en función de los recursos con los que cuento para la materia.
+- **Herramienta utilizada:** Gemini (septiembre 2026).
+- **Qué le pedí:** Estructuración del archivo idea-elegida, desglose de la justificación, eliminación de componentes complejos y elaboración de la tabla de piezas físicas del prototipo.
+- **Qué modifiqué o rechacé de su respuesta:** Personalicé la elección de materiales (corte láser e impresión 3D) en función a mi presupuesto y conocimiento de los recursos.

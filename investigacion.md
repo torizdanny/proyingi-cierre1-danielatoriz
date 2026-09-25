@@ -1,8 +1,8 @@
 # Investigación: ¿esto ya existe? ¿quién lo dice?
 
-**Autor:** Daniela Toríz García
-**Fecha:** 17/09/2026
-**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)
+**Autor:** Daniela Toríz García  
+**Fecha:** 17/09/2026  
+**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)  
 
 ---
 
@@ -10,24 +10,24 @@
 
 ### Idea 1: Llavero inteligente en forma de amplificador de guitarra
 
-- **Qué encontré:** Llavero con diseño de amplificador de guitarra que cada que al conectar un conector de audio(las llaves) enciende un led para tener control de quien está en casa y quien no, además de no dejar perder facilmente tus llaves
-- **Enlace:** [https://youtube.com/shorts/CLz6DKQUc_g?si=MGvAD4u95HqF_nrp]
-- **Qué hace:** Conecta cada conexión del llavero inteligente a la placa de desarrollo ESP8266 o ESP32 como si fuera un pulsador y se detectan las llaves mediante el mismo.
-- **Por qué no resuelve mi caso:** Porque este es un llavero que solo ayuda a no perder las llaves, sin embargo, lo que yo quiero es que emita una alarma de acuerdo a los horarios en los que me voy de casa para que no se olviden.
+- **Qué encontré:** Llavero con diseño de amplificador de guitarra que, al conectar las llaves mediante un conector de audio (Jack), enciende un LED para controlar quién está en casa y evitar perder las llaves.
+- **Enlace:** https://youtube.com/shorts/CLz6DKQUc_g?si=MGvAD4u95HqF_nrp
+- **Qué hace:** Conecta cada llavero como un botón pulsador a una placa ESP8266 o ESP32, detectando la presencia física de las llaves al insertar la clavija.
+- **Por qué no resuelve mi caso:** Porque es un sistema pasivo que solo registra la presencia de las llaves; mi propuesta busca emitir una alarma sonora/luminosa activa programada según mis horarios de salida para evitar descuidos.
 
-### Idea 2: Alarma interactiva con pistola
+### Idea 2: Alarma interactiva con objetivo de tiro
 
-- **Qué encontré:** Reloj interactivo que te obliga pistola de dardos y tablero
-- **Enlace:** [https://blog.bricogeek.com/noticias/arduino/como-hacer-el-despertador-led-definitivo-con-arduino-requiere-punteria/]
-- **Qué hace:** Activa una alarma y despliega un tablero para que el usuario apunte con una pistola de dardos y solo así se apague la alarma
-- **Por qué no resuelve mi caso:** Porque requiere de más accesorios complejos y mi propuesta resuelve la misma problemática de manera más sencilla y accesible
+- **Qué encontré:** Reloj despertador interactivo con un blanco de tiro y una pistola de infrarrojos o dardos.
+- **Enlace:** https://blog.bricogeek.com/noticias/arduino/como-hacer-el-despertador-led-definitivo-con-arduino-requiere-punteria/
+- **Qué hace:** Activa una alarma sonora que solo se apaga cuando el usuario apunta y acierta al centro del tablero con la pistola.
+- **Por qué no resuelve mi caso:** Requiere mecanismos mecánicos y accesorios complejos, mientras que mi propuesta busca resolver la misma necesidad de forma más sencilla, directa y accesible.
 
 ### Idea 3: Monitor de calidad de aire
 
-- **Qué encontré:** Medidor y alerta de calidad de aire con sensor y arduino
-- **Enlace:** [https://www.instructables.com/Calidad-De-Air-Sensor-Mq-135/]
-- **Qué hace:** Toma una lectura de gases del ambiente y despliega los valores numéricos en una pantalla LCD
-- **Por qué no resuelve mi caso:** Porque es un instrumento de medición en donde requiere estar viendo una pantalla para notar los valores mientras que mi propuesta los abaliza y envía una alarma
+- **Qué encontré:** Medidor y alerta de calidad de aire con sensor MQ-135 y Arduino.
+- **Enlace:** https://www.instructables.com/Calidad-De-Air-Sensor-Mq-135/
+- **Qué hace:** Mide la presencia de gases en el ambiente y muestra los valores numéricos continuamente en una pantalla LCD.
+- **Por qué no resuelve mi caso:** Funciona como un instrumento de medición pasivo que requiere revisar la pantalla constantemente; mi propuesta analiza los datos e integra una alarma preventiva directa.
 
 ---
 
@@ -40,51 +40,53 @@
 | Autor u organización | Home Assistant y Domótica Fácil |
 | Título | Llavero Inteligente ¡Nunca Más Pierdas Tus Llaves! |
 | Año | 2025 |
-| Enlace | [https://youtube.com/shorts/CLz6DKQUc_g?si=MGvAD4u95HqF_nrp] |
-| Tipo | Video donde se hace una demostración de prototipo |
-| Por qué le creo | Porque lo podemos vizualizar y hace una demostración del prototipo |
-| Qué dato me dio | La idea de hacer un llavero que aparte de funcional sea estético y se vea bien |
+| Enlace | https://youtube.com/shorts/CLz6DKQUc_g?si=MGvAD4u95HqF_nrp |
+| Tipo | Video / Demostración de prototipo |
+| Por qué le creo | Muestra una prueba funcional y visual del prototipo en tiempo real. |
+| Qué dato me dio | La idea de utilizar conectores tipo Jack para combinar un diseño estético con detección eléctrica. |
 
 ### Fuente 2
 
 | Campo | Contenido |
 |---|---|
-| Autor u organización | Brico Geek (Oscar Gonzalez) |
+| Autor u organización | Brico Geek (Oscar González) |
 | Título | Cómo hacer el despertador LED definitivo con Arduino (requiere puntería!) |
 | Año | 2017 |
-| Enlace | [https://articulo.mercadolibre.com.mx/MLM-3449737423-gun-and-target-alarm-clock-with-shooting-gameled-display-_JM] |
+| Enlace | https://blog.bricogeek.com/noticias/arduino/como-hacer-el-despertador-led-definitivo-con-arduino-requiere-punteria/ |
 | Tipo | Blog / Documentación técnica en español |
-| Por qué le creo | Porque tiene un video demostrando como se hace |
-| Qué dato me dio | Como usar sensores y fotodetectores |
+| Por qué le creo | Es un portal de divulgación tecnológica reconocido con código fuente y demostración del ensamblaje. |
+| Qué dato me dio | La lógica de lectura de fotodetectores e interrupciones para desactivar la alarma sonora. |
 
 ### Fuente 3 (opcional)
 
 | Campo | Contenido |
 |---|---|
 | Autor u organización | Instructables |
-| Título | Calidad del aire del Air Sensor Mq-135 |
+| Título | Calidad del aire del Air Sensor MQ-135 |
 | Año | 2018 |
-| Enlace | [https://www.instructables.com/Calidad-De-Air-Sensor-Mq-135/] |
+| Enlace | https://www.instructables.com/Calidad-De-Air-Sensor-Mq-135/ |
 | Tipo | Documentación y tutorial |
-| Por qué le creo | Porque es una página donde se realizan muchos proyectos y tiene cada uno su documentación tecnica |
-| Qué dato me dio | Como utilizar el sensor Mq-135 y reflejar los datos en una pantalla LCD |
+| Por qué le creo | Es una comunidad abierta de proyectos con tutoriales y documentación técnica verificada paso a paso. |
+| Qué dato me dio | Cómo conectar el sensor MQ-135 a un microcontrolador y desplegar lecturas en una pantalla LCD. |
 
 ---
 
 ## Parte 3. Qué haría distinto
 
-Que los proyectos que encontré no tienen ningun sistema integrado que te lo recuerde mediante una alarma programadacon base en los horarios específicos que tenemos dia con dia, si no que hacen la función de manera pasiva
+A diferencia de los proyectos encontrados, los cuales funcionan de manera pasiva o como simples instrumentos de medición, mi propuesta integra un sistema de alertas activas programadas con base en horarios específicos de salida diario. El dispositivo no solo registra si la llave está puesta, sino que avisa de forma sonora y luminosa si el usuario intenta salir sin ellas.
+
+---
 
 ## Parte 4. Qué me falta averiguar
 
-- [ ] ¿Como programar el módulo para configurar horarios de alarma?
-- [ ] El consumo de bateria que tendría al ser un dispositivo que estaría en modo espera hasta la siguiente alarma
-- [ ] La durabilidad física del llavero y la detección de las llaves con el uso diario
+- [ ] ¿Cómo programar el microcontrolador o módulo correspondiente para gestionar y configurar los horarios de la alarma?
+- [ ] Medir el consumo exacto de energía de la batería cuando el dispositivo permanece en modo de espera (standby).
+- [ ] Probar la durabilidad física del mecanismo de detección y de los conectores con el uso diario de las llaves.
 
 ---
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** Gemini
-- **Qué le pedí:** Revisión de la redacción, investigación de nombres de proyectos similares y algunos datos de las fuentes de investigación.
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** Algunos otros proyectos similares ya que no eran de ayuda para la investigación y los enlaces que tenían.
+- **Herramienta utilizada:** Gemini (septiembre 2026).
+- **Qué le pedí:** Revisión de la redacción, verificación de los enlaces de las fuentes y apoyo en la explicación de términos técnicos de las propuestas.
+- **Qué modifiqué o rechacé de su respuesta:** Descarté las sugerencias de proyectos alternativos que no coincidían con mis búsquedas y corregí los enlaces para asegurarme de que abrieran de forma directa.
