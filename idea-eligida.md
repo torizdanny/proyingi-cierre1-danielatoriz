@@ -27,5 +27,5 @@ El prototipo constará de una estructura dividida en partes sencillas diseñadas
 ## Declaración de uso de IA
 
 - **Herramienta utilizada:** Gemini.
-- **Qué le pedí:** Estructuración del archivo `idea-elegida.md`, desglose de la justificación y elaboración de la tabla de piezas físicas del prototipo.
+- **Qué le pedí:** Estructuración del archivo idea-elegida, desglose de la justificación y elaboración de la tabla de piezas físicas del prototipo.
 - **Qué modifiqué o rechacé de su respuesta:** Personalicé la elección de materiales (corte láser e impresión 3D) en función de los recursos con los que cuento para la materia.
