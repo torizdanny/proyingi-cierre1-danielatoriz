@@ -31,7 +31,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 2: [Alarma funcional]
+## Idea 2: Alarma funcional
 
 **Problema.** La alarma suena por la mañana y nos levantamos tarde ya que se pospone durante mucho tiempo
 
@@ -46,7 +46,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 3: [Sensor para ventilación de aire]
+## Idea 3: Sensor para ventilación de aire
 
 **Problema.** Dolor de cabeza, fatiga o somnolencia por acumulación de CO2 al estudiar o tener tareas en tu casa o cuarto
 

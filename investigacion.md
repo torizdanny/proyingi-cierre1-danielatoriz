@@ -15,7 +15,7 @@
 - **Qué hace:** Conecta cada conexión del llavero inteligente a la placa de desarrollo ESP8266 o ESP32 como si fuera un pulsador y se detectan las llaves mediante el mismo.
 - **Por qué no resuelve mi caso:** Porque este es un llavero que solo ayuda a no perder las llaves, sin embargo, lo que yo quiero es que emita una alarma de acuerdo a los horarios en los que me voy de casa para que no se olviden.
 
-### Idea 2: [Alarma interactiva con pistola]
+### Idea 2: Alarma interactiva con pistola
 
 - **Qué encontré:** Reloj interactivo que te obliga pistola de dardos y tablero
 - **Enlace:** [https://blog.bricogeek.com/noticias/arduino/como-hacer-el-despertador-led-definitivo-con-arduino-requiere-punteria/]
