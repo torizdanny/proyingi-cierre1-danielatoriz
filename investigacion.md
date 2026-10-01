@@ -2,7 +2,7 @@
 
 **Autor:** Daniela Toríz García  
 **Fecha:** 17/09/2026  
-**Ideas analizadas:** ver [[ideas-proyecto]] o [ideas-proyecto.md](ideas-proyecto.md)  
+**Ideas analizadas:** [ideas-proyecto.md](ideas-proyecto.md)  
 
 ---
 

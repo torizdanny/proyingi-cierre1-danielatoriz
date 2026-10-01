@@ -8,7 +8,7 @@
 
 ## ¿Cuál de mis 3 ideas elijo y por qué?
 
-De las tres propuestas analizadas en [[ideas-proyecto]] (o [ideas-proyecto.md](ideas-proyecto.md)), he elegido la **Idea 1: Llavero inteligente con alerta de presencia**.
+De las tres propuestas analizadas en [ideas-proyecto.md](ideas-proyecto.md), he elegido la **Idea 1: Llavero inteligente con alerta de presencia**.
 
 ### Razones de la elección:
 1. **Problema personal y real:** Atiende una necesidad cotidiana que experimento directamente en mi departamento al salir de prisa por las mañanas (el olvido o pérdida constante de las llaves).
