@@ -1,5 +1,4 @@
 # Investigación: ¿esto ya existe? ¿quién lo dice?
-
 **Autor:** Daniela Toríz García  
 **Fecha:** 17/09/2026  
 **Ideas analizadas:** [ideas-proyecto.md](ideas-proyecto.md)  
