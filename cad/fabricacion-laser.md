@@ -4,7 +4,6 @@
 **Materia:** Proyecto de Ingeniería I · IBERO Puebla  
 **Profesor:** Mtro. Rafael Pérez Aguirre  
 **Fecha:** 22 de octubre de 2026  
-**Repositorio:** https://github.com/torizdanny/proyingi-cierre1-danielatoriz
 
 ## 1. Diseño y dimensiones
 
