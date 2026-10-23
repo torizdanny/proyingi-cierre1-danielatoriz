@@ -19,12 +19,14 @@ Me llamo Daniela Toríz García y soy de Apizaco, Tlaxcala. Lo que me hizo elegi
 - [Ideas de proyecto](ideas-proyecto.md) — Tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — Ejemplos que ya existen y fuentes consultadas.
 - [Idea elegida](idea-elegida.md) — Selección final del proyecto (Llavero inteligente) y propuesta de piezas físicas para su prototipado.
-- [Pieza S6](cad/pieza-s6.md) — Documentación de mi diseño de la sesión 6.
-- [Diseño CAD — Caja MDF](cad/caja.md) — Medidas, parámetros, diseño, proceso y dificultades de fabricación.
-- [Archivo DXF de la caja](cad/caja.dxf) — Cinco caras con uniones tipo finger joints para corte láser.
-- [Prueba de kerf](cad/kerf.dxf) — Tira de prueba de 100 × 20 mm.
-- [Modelo editable FreeCAD](cad/caja.FCStd) — Archivo del diseño generado en FreeCAD.
-- [Captura de medidas](cad/captura-medidas.png) — Evidencia visual del diseño y sus parámetros.
+- [Pieza S6](cad/diseño_carafrontal/pieza-s6.md) — Documentación de mi diseño de la sesión 6.
+- [Diseño CAD — Caja MDF](cad/caja_MDF/caja.md) — Medidas, parámetros, diseño, proceso y dificultades de fabricación.
+- [Archivo DXF de la caja](cad/caja_MDF/caja.dxf) — Cinco caras con uniones tipo finger joints para corte láser.
+- [Prueba de kerf](cad/caja_MDF/kerf.dxf) — Tira de prueba de 100 × 20 mm.
+- [Modelo editable FreeCAD](cad/caja_MDF/caja.FCStd) — Archivo del diseño generado en FreeCAD.
+- [Captura de medidas](cad/diseño_carafrontal/captura-medidas.png) — Evidencia visual del diseño y sus parámetros.
+- [Fabricación con corte láser — Segundo parcial](laser/fabricacion-laser.md) — Documentación de fabricación, parámetros de corte, medición del kerf y evidencias fotográficas.
+- [Carpeta de entrega láser](laser/) — Archivos DXF finales, fotografías y documentación del segundo parcial.
 
 ---
 
@@ -33,9 +35,9 @@ Me llamo Daniela Toríz García y soy de Apizaco, Tlaxcala. Lo que me hizo elegi
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 |---|---|---|
 | Markdown | Para darle formato a los textos | A medias |
-| Obsidian | Para tener mis anotaciones en un solo lugar | Sí |
+| Obsidian | Para tener mis anotaciones en un solo lugar | A medias |
 | Git | Para almacenar mi repositorio | A medias |
-| GitHub | Para tener mi trabajo guardado en línea y poder visualizar los de otros | Si |
+| GitHub | Para tener mi trabajo guardado en línea y poder visualizar los de otros | Sí |
 | FreeCAD 1.1.4 | Para generar las piezas de mi caja MDF y exportar archivos DXF | Sí |
 | Python (macro) | Para automatizar la generación de las piezas y sus uniones | Sí, con apoyo de IA |
 
@@ -47,7 +49,8 @@ Me llamo Daniela Toríz García y soy de Apizaco, Tlaxcala. Lo que me hizo elegi
 - [x] Poner los comandos desde la terminal más rápido sin guiarme con mis otros compañeros o con IA.
 - [x] Diseñar mi caja MDF de cinco caras y preparar los archivos DXF.
 - [x] Utilizar FreeCAD para generar piezas con finger joints.
-- [ ] Comprobar el ajuste de las uniones y medir el kerf real durante el corte.
+- [x] Comprobar el ajuste de las uniones y medir el kerf real durante el corte.
+- [x] Documentar el proceso de corte láser con sus parámetros, fotografías y archivos finales en la carpeta `laser/`.
 - [ ] Quiero aprender a programar en cualquier lenguaje o por lo menos saber lo básico para empezar a tomar camino con los conocimientos iniciales.
 
 ---
@@ -62,8 +65,6 @@ Me llamo Daniela Toríz García y soy de Apizaco, Tlaxcala. Lo que me hizo elegi
 
 **Herramienta utilizada:** ChatGPT (octubre 2026).
 
-**Qué le pedí:** Apoyo para generar una macro en Python para FreeCAD, crear las cinco caras de una caja MDF con uniones tipo finger joints, preparar los archivos DXF y resolver dificultades técnicas durante la instalación y ejecución del programa.
+**Qué le pedí:** Apoyo para generar una macro en Python para FreeCAD. También solicité apoyo para redactar y revisar el reporte del segundo parcial, organizar las evidencias y la documentación.
 
-**Qué modifiqué o revisé de su respuesta:** Utilicé las medidas de mi proyecto y el espesor real del MDF, comprobé visualmente las piezas generadas y revisé los parámetros mostrados en FreeCAD. Quedan pendientes las pruebas de ensamblaje, la medición del kerf y la verificación de la actualización automática de la geometría.
-
-También utilicé ChatGPT para organizar la documentación y actualizar este README.
+**Qué modifiqué o revisé de su resgpuesta:** Utilicé las medidas de mi proyecto y el espesor real del MDF, comprobé visualmente las piezas generadas y revisé los parámetros mostrados en FreeCAD. Realicé la prueba de kerf y revisé el ensamblaje físico de las piezas. Queda pendiente profundizar en la verificación de la actualización automática de la geometría.

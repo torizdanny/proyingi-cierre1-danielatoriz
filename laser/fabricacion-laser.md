@@ -13,7 +13,7 @@
 - **Uniones:** tres dedos por arista (*finger joints*).
 - **Separación de piezas en el plano:** 3.00 mm.
 - **Kerf configurado en FreeCAD actual:** 89.00 µm = **0.089 mm**.
-- **Cara frontal de la caja:** abertura rectangular de 25 × 15 mm y seis orificios de Ø3 mm, según `cad/caja_freecad/caja.md`.
+- **Cara frontal de la caja:** abertura rectangular de 25 × 15 mm y seis orificios de Ø3 mm, según `cad/caja_freecad/caja.md`git
 - **Diseño 2D previo (Onshape):** placa de 120 × 100 mm, seis perforaciones de Ø5 mm. Es el antecedente y **no** mide lo mismo que la caja final.
 
 **Evolución:** se pasó del panel inicial 2D a la caja tridimensional abierta, con cinco piezas planas y pestañas de ensamblaje; se verificaron los parámetros de espesor, número de dedos y compensación de corte.
