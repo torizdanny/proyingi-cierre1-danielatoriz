@@ -35,7 +35,7 @@ Me llamo Daniela Toríz García y soy de Apizaco, Tlaxcala. Lo que me hizo elegi
 | Markdown | Para darle formato a los textos | A medias |
 | Obsidian | Para tener mis anotaciones en un solo lugar | Sí |
 | Git | Para almacenar mi repositorio | A medias |
-| GitHub | Para tener mi trabajo guardado en línea y poder visualizar los de otros | A medias |
+| GitHub | Para tener mi trabajo guardado en línea y poder visualizar los de otros | Si |
 | FreeCAD 1.1.4 | Para generar las piezas de mi caja MDF y exportar archivos DXF | Sí |
 | Python (macro) | Para automatizar la generación de las piezas y sus uniones | Sí, con apoyo de IA |
 
